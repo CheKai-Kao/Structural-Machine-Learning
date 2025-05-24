@@ -1,4 +1,4 @@
-# StructuralMachineLearning
+# Structural Machine Learning
 期末報告
 
 ### 介紹
