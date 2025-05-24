@@ -27,9 +27,12 @@ TestFNO, TestAFNO 為測試程式碼
 
 ### Reference
 Kossaifi, J., Kovachki, N., Li, Z., Pitt, D., Liu-Schiaffini, M., George, R., Bonev, B., Azizzadenesheli, K., Berner, J., and Anandkumar, A. , "A Library for Learning Neural Operators", ArXiV, 2024  
+
 https://arxiv.org/abs/2412.10354.
 
-Kovachki, N., Li, Z., Liu, B., Azizzadenesheli, K., Bhattacharya, K., Stuart, A., and Anandkumar A. , “Neural Operator: Learning Maps Between Function Spaces”, JMLR, 2021.  https://arxiv.org/abs/2108.08481.
+Kovachki, N., Li, Z., Liu, B., Azizzadenesheli, K., Bhattacharya, K., Stuart, A., and Anandkumar A. , “Neural Operator: Learning Maps Between Function Spaces”, JMLR, 2021.  
+
+https://arxiv.org/abs/2108.08481.
 
 https://github.com/NVlabs/AFNO-transformer
 
