@@ -19,6 +19,8 @@ Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A.
 ### AFNO Paper:
 Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar, Anima and Catanzaro, Bryan.(2022) “Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators”. In International Conference on Learning Representations(ICLR).
 
+### Code
+
 TrainFNO, TrainAFNO 為訓練程式碼
 
 TestFNO, TestAFNO 為測試程式碼
