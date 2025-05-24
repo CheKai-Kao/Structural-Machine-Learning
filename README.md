@@ -43,6 +43,7 @@ PM2.5的濃度分布呈現極度偏態。
 
 上圖是原始分布，下圖經過對數轉換的分布。
 
+### Results
 
 
 ![30](https://github.com/user-attachments/assets/c800ece7-302f-4d92-8bb5-0831d3a703c1)
