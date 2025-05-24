@@ -1,6 +1,8 @@
 # StructuralMachineLearning
 期末報告
 
+### 介紹
+
 一、任務：使用前一小時PM2.5，並給定其他輔助資料，預測未來一小時的PM2.5。
 
 二、資料來源：中研院高解析度空氣品質擬預報資料
@@ -11,17 +13,19 @@
 
 五、MOdel: FNO (Fourier Neural Operator)、AFNO (Adaptive Fourier Neural Operator)
 
-FNO Paper: 
+### FNO Paper: 
 Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A., & Anandkumar, A. (2021). Fourier Neural Operator for Parametric Partial Differential Equations. In International Conference on Learning Representations (ICLR).
 
-AFNO Paper:
+### AFNO Paper:
 Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar, Anima and Catanzaro, Bryan.(2022) “Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators”. In International Conference on Learning Representations(ICLR).
 
 TrainFNO, TrainAFNO 為訓練程式碼
 
 TestFNO, TestAFNO 為測試程式碼
 
-hist 展現展示PM2.5的濃度分布，可以呈現極度偏態。
+### hist.png
+
+展現展示PM2.5的濃度分布，可以呈現極度偏態。
 
 大部分的區域濃度多接近0，但其實我們比較關注中高濃度的區域(>35)。
 
