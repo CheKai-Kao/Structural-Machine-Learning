@@ -2,9 +2,13 @@
 期末報告
 
 一、任務：使用前一小時PM2.5，並給定其他輔助資料，預測未來一小時的PM2.5。
+
 二、資料來源：中研院高解析度空氣品質擬預報資料
+
 三、訓練資料：2020, 2021, 2022 年份，共12,771筆 (shape: 157x103)
+
 四、測試資料：2023 年份，共4,340筆 (shape: 157x103)
+
 五、MOdel: FNO (Fourier Neural Operator)、AFNO (Adaptive Fourier Neural Operator)
 
 FNO Paper: 
