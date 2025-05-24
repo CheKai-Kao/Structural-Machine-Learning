@@ -11,7 +11,7 @@
 
 四、測試資料：2023 年份，共4,340筆 (shape: 157x103)
 
-五、MOdel: FNO (Fourier Neural Operator)、AFNO (Adaptive Fourier Neural Operator)
+五、Model: FNO (Fourier Neural Operator)、AFNO (Adaptive Fourier Neural Operator)
 
 ### FNO Paper: 
 Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A., & Anandkumar, A. (2021). Fourier Neural Operator for Parametric Partial Differential Equations. In International Conference on Learning Representations (ICLR).
