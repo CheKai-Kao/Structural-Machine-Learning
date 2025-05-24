@@ -34,7 +34,7 @@ https://github.com/NVlabs/AFNO-transformer
 
 ### hist.png
 
-展現展示PM2.5的濃度分布，可以呈現極度偏態。
+PM2.5的濃度分布呈現極度偏態。
 
 大部分的區域濃度多接近0，但其實我們比較關注中高濃度的區域(>35)。
 
