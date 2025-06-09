@@ -2,16 +2,14 @@
 期末報告
 
 # Introdiction
-
 * 任務：使用前一小時PM2.5，並給定位來的輔助資料，預測未來一小時的PM2.5。
-
 * 資料來源：中研院高解析度空氣品質擬預報資料
+* 訓練資料：2020, 2021, 2022 年份，共12,771筆 (shape: 157x103)
+* 測試資料：2023 年份，共4,340筆 (shape: 157x103)
 
-三、訓練資料：2020, 2021, 2022 年份，共12,771筆 (shape: 157x103)
-
-四、測試資料：2023 年份，共4,340筆 (shape: 157x103)
-
-五、Model: FNO (Fourier Neural Operator)、AFNO (Adaptive Fourier Neural Operator)
+# Model
+* FNO (Fourier Neural Operator)
+* AFNO (Adaptive Fourier Neural Operator)
 
 # FNO Paper
 Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A., & Anandkumar, A. (2021). Fourier Neural Operator for Parametric Partial Differential Equations. In International Conference on Learning Representations (ICLR)
