@@ -15,11 +15,11 @@
 
 
 ## FNO Paper
-Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A., & Anandkumar, A. (2021). Fourier Neural Operator for Parametric Partial Differential Equations. In International Conference on Learning Representations (ICLR)
+* Li, Z., Kovachki, N., Azizzadenesheli, K., Liu, B., Bhattacharya, K., Stuart, A., & Anandkumar, A. (2021). Fourier Neural Operator for Parametric Partial Differential Equations. In International Conference on Learning Representations (ICLR)
 
 
 ## AFNO Paper
-Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar, Anima and Catanzaro, Bryan.(2022) Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators. In International Conference on Learning Representations(ICLR)
+* Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar, Anima and Catanzaro, Bryan.(2022) Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators. In International Conference on Learning Representations(ICLR)
 
 
 ## Code
@@ -33,11 +33,11 @@ Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar,
 
 
 ## AFNO Code Reference
-https://github.com/NVlabs/AFNO-transformer
+* https://github.com/NVlabs/AFNO-transformer
 
 
 ## Dataset
-民生公共物聯網
+* 民生公共物聯網
 
 
 ## Results
